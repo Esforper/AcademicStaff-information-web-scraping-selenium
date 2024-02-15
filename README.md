@@ -13,7 +13,7 @@ This Python script uses Selenium to scrape academic staff emails from a universi
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/AcademicStaff-information-web-scraping-selenium.git
+    git clone https://github.com/Esforper/AcademicStaff-information-web-scraping-selenium.git
     cd AcademicStaff-information-web-scraping-selenium
     ```
 
